@@ -1,4 +1,4 @@
 hifi
 ====
 
-Flow based programming in JavaScript code.
+Flow based programming for Node services.
